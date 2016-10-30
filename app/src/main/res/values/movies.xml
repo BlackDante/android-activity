@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="movies_names">
+        <item>Bociany</item>
+        <item>Bociany vol 2</item>
+    </array>
+    <array name="movies_descriptions">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia, augue ut dignissim.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia, augue ut dignissim.</item>
+    </array>
+</resources>
